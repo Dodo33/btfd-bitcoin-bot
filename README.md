@@ -1,5 +1,4 @@
 <h1 align="center">BTFDBot</h1>
-<p align="center">==========</p> <br />
 Bitcoin is in bull run since the summer of 2015, let's automate the "buy the dip" process! <br />
 
 As we see in the [BTCUSD](https://www.bitcoinwisdom.com/markets/bitstamp/btcusd) chart when bitcoin have a correction it lose about 30% in a handful of days. Why don't buy & hold in these occasion?
