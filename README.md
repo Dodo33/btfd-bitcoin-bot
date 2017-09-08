@@ -9,8 +9,8 @@ For the moment it works just for [kraken](https://www.kraken.com) but the suppor
 
 
 ### Prerequisites
-The bot requires just a module: [krakenex](www.github.com/veox/python3-krakenex) <br />
-Krakenex installation guide [here](www.github.com/veox/python3-krakenex/blob/master/README.rst) <br />
+The bot requires just a module: [krakenex](https://github.com/veox/python3-krakenex) <br />
+Krakenex installation guide [here](https://github.com/veox/python3-krakenex/blob/master/README.rst) <br />
 Python3 is required.
 
 
